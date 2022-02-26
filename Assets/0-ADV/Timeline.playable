@@ -362,7 +362,7 @@ MonoBehaviour:
     m_PreExtrapolationMode: 1
     m_PostExtrapolationTime: Infinity
     m_PreExtrapolationTime: 0
-    m_DisplayName: Recorded (13)
+    m_DisplayName: BodyRection
   m_Markers:
     m_Objects: []
   m_InfiniteClipPreExtrapolation: 1
@@ -1300,7 +1300,7 @@ MonoBehaviour:
     m_PreExtrapolationMode: 1
     m_PostExtrapolationTime: Infinity
     m_PreExtrapolationTime: 0
-    m_DisplayName: Recorded (14)
+    m_DisplayName: EyeReaction
   - m_Version: 1
     m_Start: 11.266666666666666
     m_ClipIn: 0
@@ -5461,8 +5461,8 @@ MonoBehaviour:
     m_Duration: 17.333333333333332
     m_TimeScale: 0.8
     m_ParentTrack: {fileID: -2791747633093965045}
-    m_EaseInDuration: 0
-    m_EaseOutDuration: 0
+    m_EaseInDuration: 0.5556702613830566
+    m_EaseOutDuration: 0.6668219566345215
     m_BlendInDuration: -1
     m_BlendOutDuration: -1
     m_MixInCurve:
@@ -7006,7 +7006,7 @@ MonoBehaviour:
     m_PreExtrapolationMode: 1
     m_PostExtrapolationTime: 0
     m_PreExtrapolationTime: 0
-    m_DisplayName: Recorded (2)
+    m_DisplayName: CameraMovement1
   - m_Version: 1
     m_Start: 0
     m_ClipIn: 0
@@ -7144,7 +7144,7 @@ MonoBehaviour:
     m_PreExtrapolationMode: 1
     m_PostExtrapolationTime: Infinity
     m_PreExtrapolationTime: 0
-    m_DisplayName: Recorded (5)
+    m_DisplayName: CameraMovment2
   m_Markers:
     m_Objects: []
   m_InfiniteClipPreExtrapolation: 1
@@ -8599,7 +8599,7 @@ MonoBehaviour:
     m_PreExtrapolationMode: 1
     m_PostExtrapolationTime: Infinity
     m_PreExtrapolationTime: 0
-    m_DisplayName: Recorded (15)
+    m_DisplayName: EyeReaction
   m_Markers:
     m_Objects: []
   m_InfiniteClipPreExtrapolation: 1
@@ -10133,7 +10133,7 @@ MonoBehaviour:
     m_Duration: 1.1280000000000001
     m_TimeScale: 1
     m_ParentTrack: {fileID: 5282254561212333179}
-    m_EaseInDuration: 0
+    m_EaseInDuration: 0.5080413818359375
     m_EaseOutDuration: 0
     m_BlendInDuration: -1
     m_BlendOutDuration: -1
@@ -12592,8 +12592,8 @@ MonoBehaviour:
     m_Duration: 17.333333333333332
     m_TimeScale: 1
     m_ParentTrack: {fileID: 9061379023118858390}
-    m_EaseInDuration: 0
-    m_EaseOutDuration: 0
+    m_EaseInDuration: 0.5715446472167969
+    m_EaseOutDuration: 0.49217844009399414
     m_BlendInDuration: -1
     m_BlendOutDuration: -1
     m_MixInCurve:
